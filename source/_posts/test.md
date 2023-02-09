@@ -2,4 +2,4 @@
 title: test
 ---
 
-this is my blog
+just test
