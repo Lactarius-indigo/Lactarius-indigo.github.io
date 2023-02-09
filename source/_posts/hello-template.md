@@ -1,5 +1,5 @@
 ---
-title: Pixel works
+title: test
 ---
 
 this is my blog
